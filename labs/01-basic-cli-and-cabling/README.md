@@ -60,3 +60,9 @@ Verify:
 show startup-config
 ```
 ![Verify S1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Verify_S1.png)
+
+---
+
+## Step 3 — Configure the router (R1)
+
+Open R1 → CLI:
