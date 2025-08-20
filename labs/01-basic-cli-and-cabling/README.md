@@ -40,3 +40,15 @@ PC2 ──(Fa)── S1
 
 ## Step 2 — Configure the switch (S1)
 Open **S1 → CLI**:
+
+```bash
+enable
+configure terminal
+interface vlan 1
+  ip address 192.168.10.2 255.255.255.0
+  no shutdown
+exit
+ip default-gateway 192.168.10.1
+end
+copy run start
+```
