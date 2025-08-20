@@ -115,3 +115,4 @@ PC2: `IP 192.168.10.11`, `Mask 255.255.255.0`, `GW 192.168.10.1`
 
    - PC1: `ping 192.168.10.1` (R1) → success
 
+![PC1 ping R1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/PC1_ping_R1.png)
