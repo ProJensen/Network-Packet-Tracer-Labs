@@ -23,3 +23,13 @@ Warm-up lab: small routed LAN + essential Cisco CLI.
 PC1 ──(Fa)── S1 ──(G0/1 ↔ G0/0)── R1
 
 PC2 ──(Fa)── S1
+
+---
+
+## Step 1 — Place devices & cable
+1. Add: **2960**, **2911**, **2×PC**
+2. Cable:
+   - `PC1 Fa0` → `S1 Fa0/1` (Copper Straight-Through)
+   - `PC2 Fa0` → `S1 Fa0/2` (Copper Straight-Through)
+   - `S1 Gi0/1` → `R1 Gi0/0` (Copper Straight-Through)
+3. Wait for link LEDs to go green.
