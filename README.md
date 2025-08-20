@@ -19,5 +19,4 @@ Hands-on labs aligned to **CompTIA Network+ (N10-009)** using **Cisco Packet Tra
 
 ## Lab index (click to open)
 
-1. **Lab 01 — Basic CLI & Cabling**  
-   ↳ `labs/01-basic-cli-and-cabling/README.md`
+1. [Lab 01 — Basic CLI & Cabling](labs/01-basic-cli-and-cabling/README.md)
