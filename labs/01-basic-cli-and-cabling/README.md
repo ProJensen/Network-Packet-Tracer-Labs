@@ -35,3 +35,8 @@ PC2 ──(Fa)── S1
 3. Wait for link LEDs to go green.
 
 ![Devices & Cabling](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Place_Devices_Cable.png)
+
+---
+
+## Step 2 — Configure the switch (S1)
+Open **S1 → CLI**:
