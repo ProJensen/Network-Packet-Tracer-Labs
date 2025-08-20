@@ -106,3 +106,6 @@ PC2: `IP 192.168.10.11`, `Mask 255.255.255.0`, `GW 192.168.10.1`
 ![S1 Vlan1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/S1_Vlan1.png)
 
    - R1: `show ip interface brief` → `Gi0/0` is `up/up` with `192.168.10.1`
+
+![R1 G0/0](https://github.com/ProJensen/Network-Packet-Tracer-Labs/blob/main/labs/01-basic-cli-and-cabling/screenshots/R1_G0%3A0.png)
+
