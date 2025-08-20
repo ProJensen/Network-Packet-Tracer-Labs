@@ -78,3 +78,13 @@ copy run start
 ```
 
 ![Configure R1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Configure_R1.png)
+
+---
+
+## Step 4 — Configure the PCs
+
+On each PC: Desktop → IP Configuration
+
+PC1: `IP 192.168.10.10`, `Mask 255.255.255.0`, `GW 192.168.10.1`
+
+PC2: IP 192.168.10.11, Mask 255.255.255.0, GW 192.168.10.1
