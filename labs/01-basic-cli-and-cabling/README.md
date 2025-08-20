@@ -77,3 +77,4 @@ end
 copy run start
 ```
 
+![Configure R1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Configure_R1.png)
