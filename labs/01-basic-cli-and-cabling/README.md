@@ -97,3 +97,6 @@ PC2: `IP 192.168.10.11`, `Mask 255.255.255.0`, `GW 192.168.10.1`
 ### PC2
 ![PC2 IP Config](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/PC2_IP%20Config.png)
 
+---
+
+## Step 5 — Verify
