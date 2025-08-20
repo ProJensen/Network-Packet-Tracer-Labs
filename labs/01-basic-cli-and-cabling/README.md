@@ -79,6 +79,8 @@ copy run start
 
 ![Configure R1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Configure_R1.png)
 
+![Device & Cabling 2](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Place_Devices_Cable_2.png)
+
 ---
 
 ## Step 4 — Configure the PCs
