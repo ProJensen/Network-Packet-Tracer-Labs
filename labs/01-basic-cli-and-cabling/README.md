@@ -66,3 +66,14 @@ show startup-config
 ## Step 3 — Configure the router (R1)
 
 Open R1 → CLI:
+
+```bash
+enable
+configure terminal
+interface g0/0
+  ip address 192.168.10.1 255.255.255.0
+  no shutdown
+end
+copy run start
+```
+
