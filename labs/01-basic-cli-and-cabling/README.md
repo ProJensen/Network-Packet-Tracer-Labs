@@ -109,3 +109,5 @@ PC2: `IP 192.168.10.11`, `Mask 255.255.255.0`, `GW 192.168.10.1`
 
 ![R1 G0/0](https://github.com/ProJensen/Network-Packet-Tracer-Labs/blob/main/labs/01-basic-cli-and-cabling/screenshots/R1_G0%3A0.png)
 
+   - PC1: Command Prompt → `ping 192.168.10.11` (PC2) → success
+
