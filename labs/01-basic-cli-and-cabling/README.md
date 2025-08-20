@@ -59,3 +59,4 @@ Verify:
 ```bash
 show startup-config
 ```
+![Verify S1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Verify_S1.png)
