@@ -33,3 +33,5 @@ PC2 ──(Fa)── S1
    - `PC2 Fa0` → `S1 Fa0/2` (Copper Straight-Through)
    - `S1 Gi0/1` → `R1 Gi0/0` (Copper Straight-Through)
 3. Wait for link LEDs to go green.
+
+![Devices & Cabling](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Place_Devices_Cable.png)
