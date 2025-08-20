@@ -20,3 +20,6 @@ Warm-up lab: small routed LAN + essential Cisco CLI.
 - Set PC IPs and verify **end-to-end connectivity**
 
 ## Topology
+PC1 ──(Fa)── S1 ──(G0/1 ↔ G0/0)── R1
+
+PC2 ──(Fa)── S1
