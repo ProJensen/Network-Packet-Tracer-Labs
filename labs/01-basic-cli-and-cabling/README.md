@@ -100,3 +100,9 @@ PC2: `IP 192.168.10.11`, `Mask 255.255.255.0`, `GW 192.168.10.1`
 ---
 
 ## Step 5 — Verify
+
+   - S1: `show ip interface brief` → `Vlan1` is `up/up` with `192.168.10.2`
+
+![S1 Vlan1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/S1_Vlan1.png)
+
+   - R1: `show ip interface brief` → `Gi0/0` is `up/up` with `192.168.10.1`
