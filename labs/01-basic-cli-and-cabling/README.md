@@ -54,3 +54,8 @@ copy run start
 ```
 ![Configure S1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/01-basic-cli-and-cabling/screenshots/Configure_S1.png)
 
+Verify:
+
+```bash
+show startup-config
+```
