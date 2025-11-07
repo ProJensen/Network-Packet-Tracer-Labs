@@ -60,3 +60,6 @@ Router(config-if)# ip nat outside
 Router(config-if)# no shutdown
 Router(config-if)# exit
 ```
+
+![Router-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Router-Static.png)
+![NAT-Topology-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology-Static.png)
