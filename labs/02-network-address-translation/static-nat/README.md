@@ -25,4 +25,4 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 | Router | 192.168.10.1 | - |
 
 ### Laptop 1
-![Laptop1}(https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Laptop%201.png)
+![Laptop1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Laptop%201.png)
