@@ -19,3 +19,4 @@ Hands-on networking labs using **Cisco Packet Tracer**. Each lab has clear objec
 ## Lab index (click to open)
 
 1. [Lab 01 — Basic CLI & Cabling](labs/01-basic-cli-and-cabling/README.md)
+2. [Lab 02 — Network Address Translation](labs/02-network-address-translation/README.md)
