@@ -92,3 +92,8 @@ ping 203.203.203.12
 ```
 
 ![Laptop1-Ping](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Laptop1-Ping.png)
+
+#### Verify on the Router
+```bash
+show ip nat translations
+```
