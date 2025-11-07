@@ -66,6 +66,8 @@ Router(config-if)# exit
 
 ### Step 2: Configure Static NAT Mappings
 
+Each inside device gets a fixed public IP address.
+
 ```bash
 Router(config)# ip nat inside source static 192.168.10.11 203.0.113.21
 Router(config)# ip nat inside source static 192.168.10.12 203.0.113.22
