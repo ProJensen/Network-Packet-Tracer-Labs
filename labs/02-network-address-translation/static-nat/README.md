@@ -61,7 +61,6 @@ Router(config-if)# no shutdown
 Router(config-if)# exit
 ```
 
-![Router-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Router-Static.png)
 ![NAT-Topology-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology-Static.png)
 
 ### Step 2: Configure Static NAT Mappings
@@ -75,3 +74,10 @@ Router(config)# ip nat inside source static 192.168.10.13 203.203.203.23
 Router(config)# ip nat inside source static 192.168.10.14 203.203.203.24
 Router(config)# ip nat inside source static 192.168.10.15 203.203.203.25
 ```
+
+### Step 3: Verification
+Run the following commands on the router:
+```bash
+Router# show ip nat translations
+```
+![show-ip-nat-translations](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Show-IP-NAT-Translations.png)
