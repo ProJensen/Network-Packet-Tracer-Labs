@@ -6,9 +6,8 @@ Hands-on networking labs using **Cisco Packet Tracer**. Each lab has clear objec
 
 ## Before you start (Prep)
 
-### 1) Software & version
+### 1) Software
 - Use **Cisco Packet Tracer 8.2+**.
-- Verify: **Help → About** shows the version.
 
 ### 2) What you should know (quick IOS refresher)
 - Enter/exit modes: `enable`, `configure terminal`, `end`
