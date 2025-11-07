@@ -81,3 +81,12 @@ Run the following commands on the router:
 Router# show ip nat translations
 ```
 ![show-ip-nat-translations](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Show-IP-NAT-Translations.png)
+
+### Step 4: Testing
+After finish the configurations test connectivity and web access.
+
+#### From Laptop1
+```bash
+ping 203.203.203.11
+ping 203.203.203.12
+```
