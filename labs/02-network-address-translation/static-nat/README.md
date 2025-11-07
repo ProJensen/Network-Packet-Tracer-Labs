@@ -42,3 +42,21 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 ---
 ### Step 1: Configure Interfaces
 
+```bash
+Router> enable
+Router# configure terminal
+
+! Inside interface
+Router(config)# interface g0/0
+Router(config-if)# ip address 192.168.10.1 255.255.255.0
+Router(config-if)# ip nat inside
+Router(config-if)# no shutdown
+Router(config-if)# exit
+
+! Outside interface
+Router(config)# interface g0/1
+Router(config-if)# ip address 203.0.113.1 255.255.255.0
+Router(config-if)# ip nat outside
+Router(config-if)# no shutdown
+Router(config-if)# exit
+```
