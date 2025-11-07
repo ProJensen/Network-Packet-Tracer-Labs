@@ -15,6 +15,7 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 ![Static-NAT](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology.png)
 
 ## IP Addressing Plan
+### Inside Network
 | Device | IP Address | Gateway |
 | --- | --- | --- |
 | Laptop 1 | 192.168.10.11 | 192.168.10.1 |
