@@ -27,3 +27,10 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 
 ### Laptop 1
 ![Laptop1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Laptop%201.png)
+
+### Outside Network
+| Device | IP Address | Gateway |
+| --- | --- | --- |
+| Server1 | 203.203.203.11 | 203.203.203.1 |
+| Server2 | 203.203.203.12 | 203.203.203.1 |
+| PC 2 | 203.203.203.1 | - |
