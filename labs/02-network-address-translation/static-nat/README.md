@@ -63,3 +63,13 @@ Router(config-if)# exit
 
 ![Router-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Router-Static.png)
 ![NAT-Topology-Static](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology-Static.png)
+
+### Step 2: Configure Static NAT Mappings
+
+```bash
+Router(config)# ip nat inside source static 192.168.10.11 203.0.113.21
+Router(config)# ip nat inside source static 192.168.10.12 203.0.113.22
+Router(config)# ip nat inside source static 192.168.10.13 203.0.113.23
+Router(config)# ip nat inside source static 192.168.10.14 203.0.113.24
+Router(config)# ip nat inside source static 192.168.10.15 203.0.113.25
+```
