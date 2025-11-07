@@ -12,3 +12,4 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 - 2 Laptops + 3 Desktops (inside)
 
 ## Topology Overview
+![Static-NAT](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology.png)
