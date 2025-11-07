@@ -69,9 +69,9 @@ Router(config-if)# exit
 Each inside device gets a fixed public IP address.
 
 ```bash
-Router(config)# ip nat inside source static 192.168.10.11 203.0.113.21
-Router(config)# ip nat inside source static 192.168.10.12 203.0.113.22
-Router(config)# ip nat inside source static 192.168.10.13 203.0.113.23
-Router(config)# ip nat inside source static 192.168.10.14 203.0.113.24
-Router(config)# ip nat inside source static 192.168.10.15 203.0.113.25
+Router(config)# ip nat inside source static 192.168.10.11 203.203.203.21
+Router(config)# ip nat inside source static 192.168.10.12 203.203.203.22
+Router(config)# ip nat inside source static 192.168.10.13 203.203.203.23
+Router(config)# ip nat inside source static 192.168.10.14 203.203.203.24
+Router(config)# ip nat inside source static 192.168.10.15 203.203.203.25
 ```
