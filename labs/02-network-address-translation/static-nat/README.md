@@ -34,3 +34,6 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 | Server1 | 203.203.203.11 | 203.203.203.1 |
 | Server2 | 203.203.203.12 | 203.203.203.1 |
 | Router | 203.203.203.1 | - |
+
+### Server 1
+![Server1](
