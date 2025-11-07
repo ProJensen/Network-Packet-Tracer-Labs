@@ -11,3 +11,4 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 - 2 Servers (outside)
 - 2 Laptops + 3 Desktops (inside)
 
+## Topology Overview
