@@ -2,4 +2,4 @@
 
 # Lab 02 — Network Address Translation
 
-Cisco Packet Tracer labs demonstrating Static NAT, Dynamic NAT, and PAT configurations
+Cisco Packet Tracer labs demonstrating Static NAT, Dynamic NAT, and PAT configurations.
