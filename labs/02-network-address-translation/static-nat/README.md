@@ -97,3 +97,5 @@ ping 203.203.203.12
 ```bash
 show ip nat translations
 ```
+
+![Verify-Router](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Verify-Ping.png)
