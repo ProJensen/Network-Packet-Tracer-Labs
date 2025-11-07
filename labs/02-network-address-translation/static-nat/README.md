@@ -90,3 +90,5 @@ After finish the configurations test connectivity and web access.
 ping 203.203.203.11
 ping 203.203.203.12
 ```
+
+![Laptop1-Ping](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Laptop1-Ping.png)
