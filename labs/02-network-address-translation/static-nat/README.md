@@ -23,3 +23,6 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 | PC 3 | 192.168.10.14 | 192.168.10.1 |
 | Laptop 2 | 192.168.10.15 | 192.168.10.1 |
 | Router | 192.168.10.1 | - |
+
+### Laptop 1
+[!Laptop1}(
