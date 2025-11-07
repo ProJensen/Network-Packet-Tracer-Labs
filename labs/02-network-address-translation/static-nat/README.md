@@ -36,4 +36,4 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 | Router | 203.203.203.1 | - |
 
 ### Server 1
-![Server1](
+![Server1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Server%201.png)
