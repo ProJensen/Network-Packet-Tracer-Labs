@@ -37,3 +37,8 @@ This lab demonstrates **Static Network Address Translation (Static NAT)** using 
 
 ### Server 1
 ![Server1](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/Server%201.png)
+
+## Router Configuration (Static NAT)
+---
+### Step 1: Configure Interfaces
+
