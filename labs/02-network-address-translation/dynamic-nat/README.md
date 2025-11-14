@@ -24,3 +24,21 @@ This lab demonstrates **Dynamic Network Address Translation (Dynamic NAT)** usin
 | PC 3 | 192.168.10.14 | 192.168.10.1 |
 | Laptop 2 | 192.168.10.15 | 192.168.10.1 |
 | Router | 192.168.10.1 | - |
+
+## Router Configuration 
+---
+### Step 1: Create the NAT Pool
+```bash
+Router(config)# ip nat pool NAT_POOL 203.203.203.2 203.203.203.254 netmask 255.255.255.0
+```
+
+### Step 2: Create an ACL for the Inside Network
+```bash
+Router(config)# access-list 1 permit 192.168.10.0 0.0.0.255
+```
+
+### Step 3: Enable Dynamic NAT
+Link the ACL to the NAT pool:
+```bash
+Router(config)# ip nat inside source list 1 pool NAT_POOL
+```
