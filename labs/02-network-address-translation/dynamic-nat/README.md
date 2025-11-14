@@ -5,14 +5,14 @@ This lab demonstrates **Dynamic Network Address Translation (Dynamic NAT)** usin
 ## Objective
 - Configure a single router to translate inside private IPs to public IPs.
 
-## Topology
+## Topology 
 - 1 Router
 - 2 Switches
 - 2 Servers (outside)
 - 2 Laptops + 3 Desktops (inside)
 
 ## Topology Overview
-![Topology](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology.png)
+![Topology](https://raw.githubusercontent.com/ProJensen/Network-Packet-Tracer-Labs/refs/heads/main/labs/02-network-address-translation/screenshots/NAT-Topology-Static.png)
 
 ## IP Addressing Plan
 ### Inside Network
