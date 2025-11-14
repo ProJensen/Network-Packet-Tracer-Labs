@@ -42,3 +42,8 @@ Link the ACL to the NAT pool:
 ```bash
 Router(config)# ip nat inside source list 1 pool NAT_POOL
 ```
+
+### Step 4: Verification
+```bash
+Router# show ip nat translations
+```
