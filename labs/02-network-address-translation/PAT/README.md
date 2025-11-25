@@ -28,3 +28,4 @@ This lab demonstrates **PAT (Port Address Translation)** using Cisco Packet Trac
 
 ## Router Configuration 
 ---
+### Step 1: 
