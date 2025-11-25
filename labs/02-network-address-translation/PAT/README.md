@@ -47,5 +47,5 @@ Router(config)# ip nat inside source list 1 interface g0/1 overload
 
 ### Step 3: Verify PAT
 ```bash
-show ip nat translations
+Router# show ip nat translations
 ```
