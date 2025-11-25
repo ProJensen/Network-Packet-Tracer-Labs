@@ -35,4 +35,17 @@ This lab demonstrates **PAT (Port Address Translation)** using Cisco Packet Trac
 
 ## Router Configuration 
 ---
-### Step 1: 
+### Step 1: Permit inside network
+```bash
+Router(config)# access-list 1 permit 192.168.10.0 0.0.0.255
+```
+
+### Step 2: Translate using router’s public IP
+```bash
+Router(config)# ip nat inside source list 1 interface g0/1 overload
+```
+
+### Step 3: Verify PAT
+```bash
+Router(config)# show ip nat translations
+```
