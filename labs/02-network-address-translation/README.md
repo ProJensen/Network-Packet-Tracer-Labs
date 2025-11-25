@@ -8,4 +8,4 @@ Cisco Packet Tracer labs demonstrating Static NAT, Dynamic NAT, and PAT configur
 
 2. [Dynamic NAT](dynamic-nat/README.md)
 
-3. PAT
+3. [PAT](PAT/README.md)
