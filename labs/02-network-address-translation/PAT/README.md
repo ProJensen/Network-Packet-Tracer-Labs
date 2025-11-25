@@ -26,6 +26,13 @@ This lab demonstrates **PAT (Port Address Translation)** using Cisco Packet Trac
 | Laptop 2 | 192.168.10.15 | 192.168.10.1 |
 | Router | 192.168.10.1 | - |
 
+### Outside Network
+| Device | IP Address | Gateway |
+| --- | --- | --- |
+| Server1 | 203.203.203.11 | 203.203.203.1 |
+| Server2 | 203.203.203.12 | 203.203.203.1 |
+| Router | 203.203.203.1 | - |
+
 ## Router Configuration 
 ---
 ### Step 1: 
